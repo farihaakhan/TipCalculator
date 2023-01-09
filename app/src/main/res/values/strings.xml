@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    //harcodedtext strings
+    <string name="tip">Tip:</string>
+    <string name="compute_tip">Compute Tip</string>
+    <string name="check_amount">Check Amount:</string>
+    <string name="party_size">Party Size:</string>
+    <string name="total">Total:</string>
+    <string name="_15">15%</string>
+    <string name="_20">20%</string>
+    <string name="_25">25%</string>
+    <string name="tip_and_totals_per_person">Tip and Totals (Per Person)</string>
+    <string name="_15Total">15%</string>
+    <string name="_20Total">20%</string>
+    <string name="_25Total">25%</string>
+    <string name="_4">4</string>
+    <string name="_120_45">120.45</string>
+</resources>
